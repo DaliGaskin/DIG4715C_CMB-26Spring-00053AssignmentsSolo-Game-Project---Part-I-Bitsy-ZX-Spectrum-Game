@@ -1,7 +1,24 @@
-Pet the Cat 2.0 Patch Notes
-1. Added more cats for different dialog interactions
-2.Added one Dog
-3.Added additional cats in the secret room
-4.Must feed Cat in order to enter final room of game.
-5.Picking up fish lets player feed cat and enter final room
-6. Misc. background décor added
+
+Game Project: Pet the Cat
+Creator: Marc Gaskin	
+Version: 2.0
+Date: 22 JAN 26
+
+New features
+•	 Added more cats for different dialog interactions
+Added one Dog
+•	Added additional cats in the secret room
+•	Picking up fish lets player feed cat and enter final room
+•	Misc. background décor added
+
+
+Fixes
+	Must feed Cat in order to enter final room of game.
+
+Improvements (of existing features)
+	Allotted more interactions between player and sprites
+	Rewarded players on exploration or noticing secret room with a dialog box
+
+
+Known Bugs
+	none
